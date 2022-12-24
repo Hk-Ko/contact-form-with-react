@@ -1,0 +1,28 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "Jude",
+      "email": "jude@gmail.com",
+      "phone": 100200300
+    },
+    {
+      "id": 2,
+      "name": "August",
+      "email": "august@gmail.com",
+      "phone": 100200300
+    },
+    {
+      "id": 1671886207735,
+      "name": "Htun Ko Ko Jay",
+      "email": "htunkko.mgk@gmail.com",
+      "phone": "09977125686"
+    },
+    {
+      "id": 1671889333617,
+      "name": "Chin Nge Bao Bei",
+      "email": "chinnge@gmail.com",
+      "phone": "09964447795"
+    }
+  ]
+}
